@@ -32,7 +32,7 @@ function Footer() {
           <div className="row justify-content-between">
             <div className="col-xl-3 col-lg-4 col-md-6">
               <div className="fw-text">
-                <h3>Big Corgi Development OÜ</h3>
+                <h3>Out Game Solutions Ltd</h3>
                 <div className="footer-text">
                   <p>Out Game Solutions Ltd, Rwanda, Reg. Certificate  120634896</p>
                   <div className="footer-contact">
