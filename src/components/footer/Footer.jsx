@@ -34,13 +34,13 @@ function Footer() {
               <div className="fw-text">
                 <h3>Battlelands</h3>
                 <div className="footer-text">
-                  <p>Moontain Ltd, Rwanda, Reg Certificate 120664886</p>
+                  <p>Out Game Solutions Ltd, Rwanda, Reg. Certificate  120634896</p>
                   <div className="footer-contact">
                     <ul>
                       <li><i className="fas fa-map-marker-alt" /> <span>Address : </span>1.1.23 Norrsken house, Kigali KN 78 St
                         Kigali, Rwanda.</li>
                       {/* <li><i className="fas fa-headphones" /> <span>Phone : </span>+24 1245 654 235</li> */}
-                      <li><i className="fas fa-envelope-open" /><span>Email : </span>info@atlastech.rw</li>
+                      <li><i className="fas fa-envelope-open" /><span>Email : </span>info@battlelands.africa</li>
                     </ul>
                   </div>
                 </div>
